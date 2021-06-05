@@ -8,5 +8,6 @@
  
  [Desktop Action openInVSCode]
  Name=Open in VS Code
+ Name[nl]=Openen in VS Code
  Icon=com.visualstudio.code
  Exec=code %u
