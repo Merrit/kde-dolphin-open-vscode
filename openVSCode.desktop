@@ -10,5 +10,6 @@
  Name=Open in VS Code
  Name[nl]=Openen in VS Code
  Name[cs]=Otevřít ve VS Code
+ Name[es]=Abrir en VS Code
  Icon=com.visualstudio.code
  Exec=code %u
