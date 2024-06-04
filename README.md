@@ -15,9 +15,9 @@ src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github"><
 
 If not downloading from the KDE Store, install manually:
 
-Copy the file `openVSCode.desktop` into the `ServiceMenus` folder:
-1. Create folders: `mkdir -p ~/.local/share/kservices5/ServiceMenus`
-2. Move file: `mv openVSCode.desktop ~/.local/share/kservices5/ServiceMenus`
+Move the file `openVSCode.desktop` into the [Service Menus folder](https://develop.kde.org/docs/apps/dolphin/service-menus/):
+- KDE Plasma 5: `~/.local/share/kservices5/ServiceMenus`
+- KDE Plasma 6: `~/.local/share/kio/servicemenus`
 
 ## Screenshots
 
