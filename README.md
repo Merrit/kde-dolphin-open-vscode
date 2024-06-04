@@ -11,7 +11,9 @@ src="https://img.shields.io/badge/KDE_Store-blue?style=for-the-badge&logo=kde"><
 <a href="https://github.com/Merrit/kde-dolphin-open-vscode/releases/latest"><img alt="Download from GitHub" height="50px"
 src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github"></a>
 
-## Install
+## Manual Install
+
+If not downloading from the KDE Store, install manually:
 
 Copy the file `openVSCode.desktop` into the `ServiceMenus` folder:
 1. Create folders: `mkdir -p ~/.local/share/kservices5/ServiceMenus`
