@@ -14,5 +14,6 @@
  Name[pl]=Otwórz za pomocą VS Code
  Name[zh]=在VS Code中打开
  Name[zh_CN]=在VS Code中打开
+ Name[de]=In VS Code öffnen
  Icon=com.visualstudio.code
  Exec=code %u
