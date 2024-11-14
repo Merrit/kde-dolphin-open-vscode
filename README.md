@@ -19,6 +19,11 @@ Move the file `openVSCode.desktop` into the [Service Menus folder](https://devel
 - KDE Plasma 5: `~/.local/share/kservices5/ServiceMenus`
 - KDE Plasma 6: `~/.local/share/kio/servicemenus`
 
+Set as executable:
+```bash
+chmod +x ./openVSCode.desktop
+```
+
 ## Screenshots
 
 ![](screenshots/open_vscode_1.png)
