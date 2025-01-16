@@ -24,6 +24,10 @@ Set as executable:
 chmod +x ./openVSCode.desktop
 ```
 
+## Customization
+
+By default, the extension works on directories (i.e. `inode/directory`). If you prefer the extension to work on all file types, edit the file `openVSCode.desktop` by replacing the line `MimeType=inode/directory` with `MimeType=all/all`.
+
 ## Screenshots
 
 ![](screenshots/open_vscode_1.png)
