@@ -26,7 +26,7 @@ chmod +x ./openVSCode.desktop
 
 ## Customization
 
-If you prefer the extension to work on all file types, edit the file `openVSCode.desktop` by replacing the line `MimeType=inode/directory` with `MimeType=all/all`.
+By default the extension works on directories. If you prefer the extension to work on all file types, edit the file `openVSCode.desktop` by replacing the line `MimeType=inode/directory` with `MimeType=all/all`.
 
 ## Screenshots
 
