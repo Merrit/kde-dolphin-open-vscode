@@ -19,5 +19,5 @@ Name[hi]=VS Code में खोले
 Name[ml]=VS Code ൽ തുറക്കുക
 Name[mr]=VS Code मध्ये उघडा
 Name[kn]=VS Code ನಲ್ಲಿ ತೆರೆಯಿರಿ
-Icon=com.visualstudio.code
+Icon=vscode
 Exec=code %u
