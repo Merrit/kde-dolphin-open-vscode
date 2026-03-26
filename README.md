@@ -15,6 +15,18 @@ src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github"><
 
 If not downloading from the KDE Store, install manually:
 
+### Using the install script
+
+The install script automatically detects the correct icon name for your VS Code
+installation and copies the service menu to the appropriate directory for your
+Plasma version.
+
+```bash
+./install.sh
+```
+
+### Manual steps
+
 Move the file `openVSCode.desktop` into the [Service Menus folder](https://develop.kde.org/docs/apps/dolphin/service-menus/):
 - KDE Plasma 5: `~/.local/share/kservices5/ServiceMenus`
 - KDE Plasma 6: `~/.local/share/kio/servicemenus`
