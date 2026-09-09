@@ -8,17 +8,18 @@ Actions=openInVSCode
 
 [Desktop Action openInVSCode]
 Name=Open in VS Code
-Name[nl]=Openen in VS Code
 Name[cs]=Otevřít ve VS Code
-Name[es]=Abrir en VS Code
-Name[pl]=Otwórz za pomocą VS Code
-Name[zh]=在 VS Code 中打开
-Name[zh_CN]=在 VS Code 中打开
 Name[de]=In VS Code öffnen
+Name[es]=Abrir en VS Code
+Name[fr]=Ouvrir dans VS Code
 Name[hi]=VS Code में खोले
+Name[kn]=VS Code ನಲ್ಲಿ ತೆರೆಯಿರಿ
 Name[ml]=VS Code ൽ തുറക്കുക
 Name[mr]=VS Code मध्ये उघडा
-Name[kn]=VS Code ನಲ್ಲಿ ತೆರೆಯಿರಿ
+Name[nl]=Openen in VS Code
+Name[pl]=Otwórz za pomocą VS Code
 Name[pt]=Abrir no VS Code
+Name[zh]=在 VS Code 中打开
+Name[zh_CN]=在 VS Code 中打开
 Icon=vscode
 Exec=code %u
